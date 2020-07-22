@@ -12,4 +12,4 @@ shekan
 ```
 select 5 and add your .ovpn profile path then you will return to main menu and select 1 to connect to the profile.
 ###
-![Demo](terminal.gif)
+![Demo](https://github.com/Farzin-Abdi/shekan/blob/master/terminal.gif)
